@@ -6,8 +6,7 @@ https://www.bilibili.com/video/BV1HMec6xEKc/?share_source=copy_web&vd_source=31c
 ### 项目简介
 本项目是一个基于人工智能技术的水稻病害智能检测分析预警系统，旨在通过先进的计算机视觉技术和深度学习模型，为稻田、育秧棚、试验田等场景提供智能化的水稻病害识别、田间异常分析与预警服务。系统集成了图片检测、视频检测、RTSP多路实时监控、模型管理、数据集管理等多项功能，构建了一个完整的水稻病害检测与预警服务平台。
 ### 项目链接
-> 通水稻病害智能检测分析预警系统(YOLO检测_多模态大模型分析)![请添加图片描述](https://i-blog.csdnimg.cn/direct/8ad6b95946b64303b0917d9deaf081ac.png)
-
+> 通水稻病害智能检测分析预警系统(YOLO检测_多模态大模型分析)
 链接: https://pan.baidu.com/s/186gAkMPTod2xc1RaFXytFQ?pwd=migz 提取码: migz 
 
 # 二、技术栈
